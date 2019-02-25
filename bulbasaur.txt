@@ -1,3 +1,4 @@
 Pokemon
 Green
 Bulb head
+Says Bulbasaur
